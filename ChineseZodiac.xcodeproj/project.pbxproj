@@ -36,6 +36,7 @@
 		B52DBD6C1B909916007A964F /* ChineseZodiacTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ChineseZodiacTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		B52DBD711B909916007A964F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		B52DBD721B909916007A964F /* ChineseZodiacTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChineseZodiacTests.swift; sourceTree = "<group>"; };
+		B52DBD7C1B90A5CA007A964F /* MyPlayground.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = MyPlayground.playground; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,6 +84,7 @@
 				B52DBD631B909916007A964F /* Images.xcassets */,
 				B52DBD651B909916007A964F /* LaunchScreen.xib */,
 				B52DBD5A1B909916007A964F /* Supporting Files */,
+				B52DBD7C1B90A5CA007A964F /* MyPlayground.playground */,
 			);
 			path = ChineseZodiac;
 			sourceTree = "<group>";
